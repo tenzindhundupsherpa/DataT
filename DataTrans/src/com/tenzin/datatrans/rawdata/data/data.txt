@@ -1,0 +1,5 @@
+1,Ram,Nepali,ram@gmail.com,1
+2,tashi,Gurung,tashi@gmail.com,0
+3,karsang,tamang,karsang@gmail.com,1
+4,hari,Nepali,hari@gmail.com,0
+5,dawa,lama,lamagmail.com,1
